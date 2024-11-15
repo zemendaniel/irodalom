@@ -1,0 +1,25 @@
+tbody tr td:first-child, tbody tr td:last-child {
+    background-color: #525252;
+}
+thead tr th:nth-child(2) {
+    background-color: #525252;
+}
+td, th {
+    border: 1px solid darkgray;
+}
+.error {
+    color: red;
+    display: inline-block;
+    box-shadow: 0 0 0 1px red;
+    padding: 0.2rem;
+    margin-bottom: 8px;
+}
+.wrapper {
+
+}
+table {
+    border-collapse: collapse;
+}
+input {
+    margin-bottom: 12px;
+}
